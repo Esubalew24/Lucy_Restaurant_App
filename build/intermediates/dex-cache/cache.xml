@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Esubalew/Desktop/LucyRestaurant/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/Esubalew/Desktop/LucyRestaurant/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1c110ff6f03f3be0ae9dcfab3940fc48161e23de/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Esubalew/Desktop/LucyRestaurant/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9fcf986282b919aa62f4d09c4891b0b124234c3b">
+        <dex dex="/Users/Esubalew/Desktop/LucyRestaurant/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_88013b091f5f6069d455af4a1118769ac95cb30e/classes.dex" />
+    </item>
+
+</items>
